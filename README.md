@@ -14,6 +14,8 @@ Free compliance checker for the GDPR Compliance Kit.
 6. Click Deploy — Vercel auto-detects Vite/React
 7. Your tool is live at: `https://gdpr-gap-tool.vercel.app`
 
+GDPR Gap Assessment Tool:
+https://gdpr-gap-tool.vercel.app
 ### Option B: Deploy via Vercel CLI
 
 ```bash
