@@ -2,8 +2,8 @@ import GDPRAssessment from './GDPRAssessment.jsx'
 
 // ─── ETSY CTA BANNER ──────────────────────────────────────────────────────────
 // Replace YOUR_ETSY_SHOP_URL with your actual Etsy listing URL before deploying
-const ETSY_FULL_KIT_URL = "https://www.etsy.com/shop/compliancekitpro.etsy.com"
-const ETSY_SAAS_BUNDLE_URL = "https://www.etsy.com/shop/compliancekitpro.etsy.com"
+const ETSY_FULL_KIT_URL = "https://compliancekitpro.etsy.com"
+const ETSY_SAAS_BUNDLE_URL = "https://compliancekitpro.etsy.com"
 
 function CTABanner() {
   return (
